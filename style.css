@@ -1,0 +1,11 @@
+#container{
+    display: flex;
+    border: 1px solid black;
+    flex-wrap: wrap;
+}
+.square{
+    background-color: rgb(1, 100, 23);
+}
+.highlight{
+    background-color: rgb(16, 63, 26);
+}
