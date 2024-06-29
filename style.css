@@ -9,3 +9,18 @@
 .highlight{
     background-color: rgb(16, 63, 26);
 }
+
+.buttons{
+    padding: 20px;
+    margin-top: 20PX;
+    background-color: rgb(238, 248, 191);
+    border-radius: 25px;
+    border: 0;
+    font-weight: 700;
+    text-transform:uppercase;
+    color: rgb(1, 100, 23);
+}
+
+.buttons:hover{
+    background-color: rgb(212, 224, 159);
+}
